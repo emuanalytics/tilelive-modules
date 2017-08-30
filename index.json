@@ -35,6 +35,6 @@
   "@mapbox/tilelive-vector",
   "tilejson",
   "@mapbox/tilejson",
-  "tilelive-postgis"
+  "tilelive-postgis",
   "tilelive-xray"
 ]
